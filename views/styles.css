@@ -1,0 +1,12 @@
+.wrapper{
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+
+}
+.wrapper >input{
+    margin: 20px;
+}
+.cookie{
+    display: flex;
+}
